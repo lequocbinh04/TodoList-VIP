@@ -21,7 +21,7 @@ This branch is the Smart Contract code, including: 1 token (Todo Token), and 1 c
 
 &nbsp;
 
-Some information about the contract I deployed:
+Some information about the contract I deployed (testnet):
 
 ```shell
 Todo token (TDT) address: 0x708C0BC45208776B32382983561ce9d38bD5F778
