@@ -45,5 +45,5 @@ npx hardhat run scripts/deploy-claim-smart-contract.js --network testnet
 3. Run the command below to start validating contract
 
 ```shell
- npx hardhat  verify --network testnet <token_address>
+ npx hardhat verify --network testnet <token_address>
 ```
