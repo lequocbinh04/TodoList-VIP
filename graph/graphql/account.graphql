@@ -1,0 +1,9 @@
+type Creator {
+    address: String!
+    amount_token: Int!
+}
+
+extend type Query {
+    account: Creator!
+    claim_token: Creator!
+}
